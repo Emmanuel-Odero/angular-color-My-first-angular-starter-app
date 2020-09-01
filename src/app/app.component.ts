@@ -1,0 +1,1 @@
+colors:string[] = ['red', 'blue', 'green', 'purple'];
